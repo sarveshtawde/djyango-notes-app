@@ -1,5 +1,0 @@
-#!/bin/bash
-
-name="Sarvesh"
-
-echo "my name is $name"
